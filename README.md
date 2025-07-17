@@ -85,8 +85,8 @@ Cashback section
 <img width="1179" height="643" alt="Screen Shot 2025-07-17 at 11 44 39 AM" src="https://github.com/user-attachments/assets/edeb8b45-eba1-44f6-9616-c57d3ca4ee57" />
 
 Discount section
-<img width="1179" height="643" alt="Screen Shot 2025-07-17 at 11 44 39 AM" src="https://github.com/user-attachments/assets/c25c6c20-1786-43be-a9fc-c0b6944faee3" />
-<img width="1179" height="643" alt="Screen Shot 2025-07-17 at 11 44 39 AM" src="https://github.com/user-attachments/assets/4d063f90-abbf-43cb-aa3c-567ced018765" />
+<img width="1373" height="563" alt="Screen Shot 2025-07-17 at 11 47 25 AM" src="https://github.com/user-attachments/assets/e02c23e3-2b29-407f-9299-7bff170b82ab" />
+<img width="1270" height="651" alt="Screen Shot 2025-07-17 at 11 47 38 AM" src="https://github.com/user-attachments/assets/b107cf4f-5f3c-46f2-8f02-d9b2b1936dc8" />
 
 <img width="1342" height="425" alt="Screen Shot 2025-07-17 at 11 50 29 AM" src="https://github.com/user-attachments/assets/a9c9a0cd-6521-4979-a770-1acfb19c9d33" />
 
